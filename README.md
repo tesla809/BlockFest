@@ -228,8 +228,6 @@ At present, we officially aim to support the last two versions of the following 
 
 <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
 
-
-
 ## Resources
 - Demo: <https://demos.creative-tim.com/blk-design-system-pro-react/#/?ref=blkdspr-github-readme>
 - Download Page: <https://www.creative-tim.com/product/blk-design-system-pro-react?ref=blkdspr-github-readme>
@@ -237,11 +235,6 @@ At present, we officially aim to support the last two versions of the following 
 - License Agreement: <https://www.creative-tim.com/license?ref=blkdspr-github-readme>
 - Support: <https://www.creative-tim.com/contact-us?ref=blkdspr-github-readme>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-blk-design-system-pro-react/issues?ref=creativetim)
-- **Dashboard:**
-
-| HTML | Vue | React |
-| --- | --- | --- |
-| [![Black Dashboard PRO  HTML](https://github.com/creativetimofficial/public-assets/blob/master/black-dashboard-pro/black-dashboard-pro.jpg?raw=true)](https://www.creative-tim.com/product/black-dashboard-pro?ref=blkdspr-github-readme) | [![Vue Black Dashboard PRO](https://github.com/creativetimofficial/public-assets/blob/master/vue-black-dashboard-pro/vue-black-dashboard-pro.jpg?raw=true)](https://www.creative-tim.com/product/vue-black-dashboard-pro) | [![Black Dashboard PRO React](https://github.com/creativetimofficial/public-assets/blob/master/black-dashboard-pro-react/black-dashboard-pro-react.jpg?raw=true)](https://www.creative-tim.com/product/black-dashboard-pro-react?ref=blkdspr-github-readme) |
 
 ## Reporting Issues
 
@@ -250,32 +243,3 @@ We use GitHub Issues as the official bug tracker for the Blk• Design System PR
 1. Make sure that you are using the latest version of the Blk• Design System PRO React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=blkdspr-github-readme).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-## Licensing
-
-- Copyright 2018 Creative Tim (https://www.creative-tim.com/?ref=blkdspr-github-readme)
-
-- Licensed under MIT (https://github.com/creativetimofficial/ct-blk-design-system-pro-react/blob/master/LICENSE.md?ref=creativetim)
-
-## Useful Links
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w?ref=creativetim)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=blkdspr-github-readme) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/?ref=blkdspr-github-readme)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=blkdspr-github-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=blkdspr-github-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=blkdspr-github-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=blkdspr-github-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=blkdspr-github-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=blkdspr-github-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=blkdspr-github-readme)
-
-### Social Media
-
-Twitter: <https://twitter.com/CreativeTim?ref=creativetim>
-
-Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
-
-Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
-
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
